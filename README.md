@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lav Shah
 
-I'm a passionate **Full-Stack MERN Developer** from **Nepalgunj, Nepal**, currently pursuing my **BSc. CSIT** degree at **Tribhuvan University** (expected 2026). I love building clean, responsive, and impactful web applications that solve real-world problems.
+I'm a passionate **Full-Stack MERN Developer** from **kathmandu, Nepal**, currently pursuing my **BSc. CSIT** degree at **Tribhuvan University** (expected 2026). I love building clean, responsive, and impactful web applications that solve real-world problems.
 
 ## 🚀 About Me
 
