@@ -8,7 +8,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lav-shah-8203031b8/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lavshah.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lavshah.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavshah51@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavshah19)
 
@@ -23,10 +23,10 @@ const lav = {
   role:       "Full-Stack Developer",
   location:   "Kathmandu, Nepal",
   education:  "BSc. CSIT — Tribhuvan University (2022–2026)",
-  experience: "Software Engineering Intern @ Palm Mind Technology (Dec 2025 – May 2026)",
-  building:   "Exopy — AI-agents orchestrator & CRM SaaS platform",
+  experience: "Software Engineering Intern @ Palm Mind Technology (Dec 8 2025 – May 22 2026)",
+  building:   "Exopy AI-agents orchestrator & CRM SaaS platform",
   focus:      ["Scalable backend systems", "Multi-tenant SaaS", "AI / LLM integrations"],
-  openTo:     "Junior Full-Stack Developer roles",
+  openTo:     " Full-Stack Developer roles",
 };
 ```
 
@@ -174,7 +174,7 @@ Real-time chat with JWT auth, live dashboard stats, and typing indicators. Fully
 
 <div align="center">
 
-**Open to Junior Full-Stack Developer opportunities** · Let's build something.
+**Open to  Full-Stack Developer opportunities** · Let's build something.
 
 `lavshah51@gmail.com` · [linkedin.com/in/lav-shah-8203031b8](https://linkedin.com/in/lav-shah-8203031b8/)
 
